@@ -6,3 +6,6 @@
 
 ### Brackets
 * Angle brackets indicate variable parts of the commands.
+
+## Logging
+The scope for the `DEBUG` environment variable is `rx-irc:bot:lastfm`.
