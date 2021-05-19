@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/rx-irc/bot-lastfm/compare/v2.0.0...v2.1.0) (2021-05-19)
+
+
+### Features
+
+* simplify Last.fm API implementation ([4f94251](https://github.com/rx-irc/bot-lastfm/commit/4f942512df5d51baacd1565b70bc28f0c16bea04))
+
 # [2.0.0](https://github.com/rx-irc/bot-lastfm/compare/v1.0.0...v2.0.0) (2021-05-17)
 
 
