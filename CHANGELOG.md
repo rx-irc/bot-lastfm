@@ -1,3 +1,16 @@
+# [3.0.0](https://github.com/rx-irc/bot-lastfm/compare/v2.1.0...v3.0.0) (2021-06-24)
+
+
+### Features
+
+* improve logging ([86dbcc6](https://github.com/rx-irc/bot-lastfm/commit/86dbcc6c7d4579cc28db1e612792113eb6ddc51d))
+* switch to new client ([356042e](https://github.com/rx-irc/bot-lastfm/commit/356042e895b85da423cfc51727efe28ccc0f964c))
+
+
+### BREAKING CHANGES
+
+* This needs a different co-dependency.
+
 # [2.1.0](https://github.com/rx-irc/bot-lastfm/compare/v2.0.0...v2.1.0) (2021-05-19)
 
 
